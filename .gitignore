@@ -1,0 +1,9 @@
+# Ignore binary files
+*.dat
+
+# Ignore build artifacts
+main
+*.o
+
+# Ignore temporary files
+temp.txt
