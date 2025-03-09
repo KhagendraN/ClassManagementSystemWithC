@@ -30,7 +30,7 @@ This project is a simple class management system implemented in C. It allows use
 
 3. Run the compiled program:
    ```sh
-   ./main
+   ./mainScript
    ```
 
 ### Usage
@@ -48,7 +48,7 @@ This project is a simple class management system implemented in C. It allows use
 
 ## File Structure
 
-- `main.c`: The main source file containing the implementation.
+- `mainScript.c`: The main source file containing the implementation.
 - `classes.dat`: Binary file used to persist class data.
 - `Makefile`: Makefile for building the project.
 - `README.md`: This readme file.
