@@ -19,8 +19,8 @@ This project is a simple class management system implemented in C. It allows use
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/KhagendraN/ClassManagementSystemWithC.git
+   cd ClassManagementSystemWithC
    ```
 
 2. Build the project using Make:
